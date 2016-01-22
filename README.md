@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-Week 3 Course Project: Data Science - Getting and Cleaning Data 
+Week 4 Course Project: Data Science - Getting and Cleaning Data 
 
 Steps on how run_analysis.R script works.
 
